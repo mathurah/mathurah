@@ -1,6 +1,6 @@
 ### 👋hey! I'm Mathurah (she/her)
 
-I'm a Systems Design Engineering student from the University of Waterloo, passionate about design, data, and building sustainable systems. I love tinkering with things on the web and you can see some of my projects on my GitHub, or learn more about me on my website - www.mathurahravigulan.com.
+I'm a Systems Design Engineering student from the University of Waterloo, passionate about design, data, and building sustainable systems. I love tinkering with things on the web and you can see some of my projects on my GitHub, or learn more about me on my website - www.mathurah.tech
 
 
 ## what I'm working on
