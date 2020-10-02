@@ -4,7 +4,7 @@ I'm a Systems Design Engineering student from the University of Waterloo, passio
 
 
 ## what I'm working on
-Currently interning at Shopify as a UX developer, a project developer at UW Blueprint, and leading Waterloo's tech mentorship community. Looking for product-facing or software development internships for summer 2021 🥳
+Currently interning at Shopify as a UX developer, a project developer at UW Blueprint, and leading Waterloo's tech mentorship community.
 
 <!--
 **mathurahravigulan/mathurahravigulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
